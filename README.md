@@ -52,6 +52,7 @@ The null hypothesis in general is to state that there is no difference in the sa
 *Metric to Test:* I would like to select **Rear Passenger Legroom** as the metric to test. The metric will be measured at two positions. Position 1 is while the front driver/passenger seat is in the most forward position and Position 2 is while the driver/passenger seat is scooted to the farthest back position. The distance of Legroom will be measured from the front of the rear seat to the back of the front seat (in upright position).
 
 *Null Hypothesis:* There is no difference in the measured legroom of MechaCar and the Competition. MechaCar Mean = Competitor Mean
+
 *Alternate Hypothesis:* There is a difference between the measured legroom of MechaCar and the Competition.
 
 When comparing the sample means of MechaCar and Competition, I would use a two sample T-test. This is done because we are comparing two sample means (not a sample mean against a nominal value). Also, I will state at this point that a longer measured legroom is considered a better value.
